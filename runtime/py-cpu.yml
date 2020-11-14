@@ -22,3 +22,4 @@ dependencies:
   - cvxpy=1.1.7=py38h950e882_0
   - diffprivlib=0.3.0=pyh9f0ad1d_0
   - networkx
+  - pywavelets
